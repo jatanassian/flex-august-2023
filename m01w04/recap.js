@@ -16,11 +16,11 @@ const myArrowFunction = () => {
 	// Do something...
 };
 
+// Method (not a type of function)
 const object = {
 	test: 'pizza',
 	someFunction() {
-		// Method
-		console.log(this.test);
+		console.log(this.test); // Wouldn't work with arrow function
 	},
 };
 
