@@ -44,7 +44,7 @@ Examples:
 // 		kB: 1000,
 // 		B: 1,
 // 	};
-
+//
 // 	for (const size in sizes) {
 // 		if (bytes >= sizes[size]) {
 // 			let count = 0;
@@ -55,6 +55,7 @@ Examples:
 // 	}
 // };
 
+// SOLUTION 3
 // const filesize = function(bytes) {
 // 	const qualitifiedLetArr = ["k", "M", "G", "T"];
 // 	let result = "";
@@ -68,6 +69,7 @@ Examples:
 // 	return result;
 //   };
 
+// SOLUTION 4
 const filesize = function (bytes) {
 	const units = ['B', 'kB', 'MB', 'GB', 'TB'];
 
