@@ -64,7 +64,7 @@
 
 We created an ERD for a Lighthouse Labs
 
-![Lighthouse Labs ERD](https://github.com/jatanassian/flex-august-2023/blob/main/m05w11_database-design/Lighthouse_Labs_ERD.png?raw=true)
+![Lighthouse Labs ERD](https://github.com/jatanassian/flex-august-2023/blob/main/m05w11_database-design/LighthouseLabs_ERD.png?raw=true)
 
 ### Useful Links
 
