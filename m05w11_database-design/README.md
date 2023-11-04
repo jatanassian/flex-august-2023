@@ -57,14 +57,14 @@
 
 ### Activity: Convert 2 Spreadsheets
 
-[Instructions](https://gist.github.com/andydlindsay/20e7305e853bad7b587f294b054cf8de)
-[ERD](https://raw.githubusercontent.com/ChristianNally/web-2022-Sep-19-west-samples/main/w05d2/w05d2%20lecture.drawio.png)
+- [Instructions](https://gist.github.com/andydlindsay/20e7305e853bad7b587f294b054cf8de)
+- [ERD](https://raw.githubusercontent.com/ChristianNally/web-2022-Sep-19-west-samples/main/w05d2/w05d2%20lecture.drawio.png)
 
 ### Student Suggestion: Uber/Ride Hailing
 
 We created an ERD for a Lighthouse Labs
 
-![Lighthouse Labs ERD]()
+![Lighthouse Labs ERD](https://github.com/jatanassian/flex-august-2023/blob/main/m05w11_database-design/Lighthouse_Labs_ERD.png?raw=true)
 
 ### Useful Links
 
