@@ -1,5 +1,8 @@
 # M09W22 Imposter Syndrome
 
+[Video recording Part 1](https://vimeo.com/909541109/b32de6b0f2)
+[Video recording Part 2](https://vimeo.com/user147384195/fc531c5c33)
+
 ## Different terms used to describe Imposter Syndrome
 
 - Imposter phenomenon
