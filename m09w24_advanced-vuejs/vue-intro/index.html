@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<title>Intro to Vue.js</title>
+	</head>
+	<body>
+		<div id="app">
+			<h1 :title="tooltip" @click="onClick">Hello {{ name }}</h1>
+			<h2>Full name: {{ fullname }}</h2>
+
+			<ol>
+				<li v-for="sport in sports">{{ sport.name }} ({{ sport.id }})</li>
+			</ol>
+
+			<p v-if="isVisible">You can see me!</p>
+			<p v-else>Not anymore!</p>
+
+			<button @click="increment">Increment</button>
+			<button @click="counter--">Decrement</button>
+			<h2>Counter: {{ counter }}</h2>
+
+			<form>
+				<label for="username">Username</label>
+				<input
+					type="text"
+					name="username"
+					id="username"
+					v-model="form.username"
+				/>
+				<br />
+				<label for="password">Password</label>
+				<input
+					type="text"
+					name="password"
+					id="password"
+					v-model="form.password"
+				/>
+				<br />
+				<button type="button" @click="login">Log in</button>
+			</form>
+		</div>
+
+		<script src="./app.js"></script>
+	</body>
+</html>
